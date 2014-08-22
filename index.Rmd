@@ -20,7 +20,7 @@ knit        : slidify::knit2slides
 2. This presentation is the object of an assignment required by the Data products
 course for COURSERA Data Science Specialisation offred by JOHNS HOPKINS bloombergschool of public health.
 3. The application can be accessed at this URL:
-http://apikou.shinyapps.io/project
+https://apikou.shinyapps.io/project
 
 ---
 
@@ -61,7 +61,7 @@ Sepal.Width, Petal.Length, Petal.Width .
 
 ## Screenshot :
  
- Go to : http://apikou.shinyapps.io/project
+ Go to : https://apikou.shinyapps.io/project
  
 ---
 
